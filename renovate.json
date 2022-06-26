@@ -4,7 +4,7 @@
   "packageRules": [
     {
       "matchPackageNames": ["typescript"],
-      "schedule": ["before 3am on Monday"]
+      "schedule": ["after 3am on Monday"]
     }
   ]
 }
