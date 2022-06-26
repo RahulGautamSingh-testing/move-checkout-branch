@@ -5,6 +5,10 @@
     {
       "matchPackageNames": ["typescript"],
       "schedule": ["after 3am on Monday"]
+    },
+    {
+      "matchPackageNames": ["hasha"],
+      "schedule": ["after 3am on Monday"]
     }
   ]
 }
