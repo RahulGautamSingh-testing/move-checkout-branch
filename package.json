@@ -4,7 +4,7 @@
   "private": true,
   "dependencies": {
     "typescript": "4.6.2",
-    "react": "1.0.0",
+    "react": "0.14.10",
     "jest": "2.0.1",
     "hasha": "1.0.0"
   },
