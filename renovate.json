@@ -3,11 +3,7 @@
   "extends": ["config:base"],
   "packageRules": [
     {
-      "matchPackageNames": ["typescript"],
-      "schedule": ["after 3am on Monday"]
-    },
-    {
-      "matchPackageNames": ["hasha"],
+      "matchPackageNames": ["hasha", "typescript"],
       "schedule": ["after 3am on Monday"]
     }
   ]
