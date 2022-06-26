@@ -5,7 +5,7 @@
   "dependencies": {
     "typescript": "4.6.2",
     "react": "1.0.0",
-    "jest": "2.0.1",
+    "jest": "0.1.40",
     "hasha": "1.0.0"
   },
   "scripts": {
